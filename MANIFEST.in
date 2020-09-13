@@ -1,0 +1,7 @@
+include dash_tour_component/dash_tour_component.min.js
+include dash_tour_component/dash_tour_component.min.js.map
+include dash_tour_component/metadata.json
+include dash_tour_component/package-info.json
+include README.md
+include LICENSE
+include package.json

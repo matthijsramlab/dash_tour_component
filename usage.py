@@ -21,7 +21,8 @@ app.layout = html.Div([
 		],
 		isOpen=False,
 		id="tour_component",
-		children=html.Div()
+		children=html.Div(),
+		rounded=7
 	),
 	html.Button("Open Tour", id='open_tour_button'),
 	html.Div("Test 1", id='my_first_step', style={'text-align': 'center'}),
